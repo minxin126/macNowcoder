@@ -1,0 +1,3 @@
+/Users/minxwang/CLionProjects/macNowcoder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/minxwang/CLionProjects/macNowcoder/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/minxwang/CLionProjects/macNowcoder/cmake-build-debug/CMakeFiles/macNowcoder.dir
